@@ -1,0 +1,21 @@
+﻿@page
+@model OpinionDB.Pages.IndexModel
+@{
+    ViewData["Title"] = "Opinia";
+}
+<h2>@ViewData["Title"]</h2>
+<div asp-validation-summary="All"></div>
+<form method="POST">
+    <div>
+        <label>Imię i Nazwisko</label>
+       <br />
+        <input id="nameForm" asp-for="Opinion.Name" />
+    </div>
+    <div>
+        <label>Dlaczego chciałbyś uczestniczyć w praktykach?</label>
+        <br />
+        <textarea id="opinionForm" asp-for="Opinion.OpinionValue"></textarea>
+    </div> 
+       <br />
+    <input type="submit" value="Wyśli" />
+</form>
