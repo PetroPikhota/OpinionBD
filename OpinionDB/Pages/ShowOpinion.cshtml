@@ -1,0 +1,19 @@
+﻿@page
+@model OpinionDB.Pages.ShowOpinionModel
+@{
+    ViewData["Title"] = "Opinions";
+}
+<h2>@ViewData["Title"]</h2>
+
+<table class="table">
+    <thead>
+        <tr><th>Name</th><th>Opinion</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var opinion in Model.opinions)
+        {
+            <tr><td>@opinion.Name</td>
+        <td>@opinion.OpinionValue</td></tr>
+        }
+    </tbody>
+</table>

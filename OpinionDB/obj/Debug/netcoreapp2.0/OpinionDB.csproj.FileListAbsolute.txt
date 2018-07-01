@@ -1,0 +1,11 @@
+C:\Users\Petryk\source\repos\OpinionDB\OpinionDB\bin\Debug\netcoreapp2.0\OpinionDB.deps.json
+C:\Users\Petryk\source\repos\OpinionDB\OpinionDB\bin\Debug\netcoreapp2.0\OpinionDB.runtimeconfig.json
+C:\Users\Petryk\source\repos\OpinionDB\OpinionDB\bin\Debug\netcoreapp2.0\OpinionDB.runtimeconfig.dev.json
+C:\Users\Petryk\source\repos\OpinionDB\OpinionDB\bin\Debug\netcoreapp2.0\OpinionDB.dll
+C:\Users\Petryk\source\repos\OpinionDB\OpinionDB\bin\Debug\netcoreapp2.0\OpinionDB.pdb
+C:\Users\Petryk\source\repos\OpinionDB\OpinionDB\obj\Debug\netcoreapp2.0\OpinionDB.csprojAssemblyReference.cache
+C:\Users\Petryk\source\repos\OpinionDB\OpinionDB\obj\Debug\netcoreapp2.0\OpinionDB.csproj.CoreCompileInputs.cache
+C:\Users\Petryk\source\repos\OpinionDB\OpinionDB\obj\Debug\netcoreapp2.0\OpinionDB.AssemblyInfoInputs.cache
+C:\Users\Petryk\source\repos\OpinionDB\OpinionDB\obj\Debug\netcoreapp2.0\OpinionDB.AssemblyInfo.cs
+C:\Users\Petryk\source\repos\OpinionDB\OpinionDB\obj\Debug\netcoreapp2.0\OpinionDB.dll
+C:\Users\Petryk\source\repos\OpinionDB\OpinionDB\obj\Debug\netcoreapp2.0\OpinionDB.pdb
